@@ -10,7 +10,7 @@
 
 
 
-<img src =  "https://cafeptthumb-phinf.pstatic.net/MjAxOTExMDhfMjkw/MDAxNTczMTczNzc4OTMw.jCjEleXMLg0fSQYNlPP3GinTLCW_UOxh4070aLol4l0g.XQwKqXsKD5z-C9t7seTROk6tZrxqs6CwA_R3yrAa3sgg.JPEG/externalFile.jpg?type=w800"
+<img src = "https://cafeptthumb-phinf.pstatic.net/MjAxOTExMDhfMjkw/MDAxNTczMTczNzc4OTMw.jCjEleXMLg0fSQYNlPP3GinTLCW_UOxh4070aLol4l0g.XQwKqXsKD5z-C9t7seTROk6tZrxqs6CwA_R3yrAa3sgg.JPEG/externalFile.jpg?type=w800"
 width = "50%">
 
 ## 이미지경로 불러오기
@@ -32,6 +32,15 @@ width = "50%">
     <li> HTML5 </li> 
     <li> HTML5 </li> 
 </ul>
+
+
+1. 숫자 1 
+      1. number 1a
+
+2. 숫자 2
+3. 숫자 3
+     
+     3. number 3c
 
 
 ## 행,셀
