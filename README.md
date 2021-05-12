@@ -1,17 +1,19 @@
-# 제목1:Myhomework
+# Myhomework
 
 새로운 레퍼지토리입니다.</br>
 문단은 한칸 띄었습니다.
 
 
-## 이미지파일
+## 이미지파일 불러오기
 
-![](https://cafeptthumb-phinf.pstatic.net/MjAxOTExMDhfMjkw/MDAxNTczMTczNzc4OTMw.jCjEleXMLg0fSQYNlPP3GinTLCW_UOxh4070aLol4l0g.XQwKqXsKD5z-C9t7seTROk6tZrxqs6CwA_R3yrAa3sgg.JPEG/externalFile.jpg?type=w800)
+![](https://www.pinterest.co.kr/pin/820288519603128183/)
 
 
 
 <img src =  "https://cafeptthumb-phinf.pstatic.net/MjAxOTExMDhfMjkw/MDAxNTczMTczNzc4OTMw.jCjEleXMLg0fSQYNlPP3GinTLCW_UOxh4070aLol4l0g.XQwKqXsKD5z-C9t7seTROk6tZrxqs6CwA_R3yrAa3sgg.JPEG/externalFile.jpg?type=w800"
 width = "50%">
+
+## 이미지경로 불러오기
 
 
 
@@ -46,10 +48,10 @@ I think you should use an
 
 ## 대화형식
 
-As Kanye West said:
+KOSMO Said:
 
-> We're living the future so
-> the present is our past.
+> 6개월을 6년같이 배워서</br>
+> 취업의 결실을 맺읍시다.
 
 
 
