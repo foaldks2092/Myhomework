@@ -6,8 +6,7 @@
 
 ## 이미지파일 불러오기
 
-![](https://cafeptthumb-phinf.pstatic.net/MjAxOTExMDhfMjkw/MDAxNTczMTczNzc4OTMw.jCjEleXMLg0fSQYNlPP3GinTLCW_UOxh4070aLol4l0g.XQwKqXsKD5z-C9t7seTROk6tZrxqs6CwA_R3yrAa3sgg.JPEG/externalFile.jpg?type=w800)
-
+![GitHub Logo](https://cafeptthumb-phinf.pstatic.net/MjAxOTExMDhfMjkw/MDAxNTczMTczNzc4OTMw.jCjEleXMLg0fSQYNlPP3GinTLCW_UOxh4070aLol4l0g.XQwKqXsKD5z-C9t7seTROk6tZrxqs6CwA_R3yrAa3sgg.JPEG/externalFile.jpg?type=w800)
 
 
 <img src = "https://cafeptthumb-phinf.pstatic.net/MjAxOTExMDhfMjkw/MDAxNTczMTczNzc4OTMw.jCjEleXMLg0fSQYNlPP3GinTLCW_UOxh4070aLol4l0g.XQwKqXsKD5z-C9t7seTROk6tZrxqs6CwA_R3yrAa3sgg.JPEG/externalFile.jpg?type=w800"
