@@ -6,7 +6,7 @@
 
 ## 이미지파일 불러오기
 
-![](https://www.pinterest.co.kr/pin/820288519603128183/)
+![](https://cafeptthumb-phinf.pstatic.net/MjAxOTExMDhfMjkw/MDAxNTczMTczNzc4OTMw.jCjEleXMLg0fSQYNlPP3GinTLCW_UOxh4070aLol4l0g.XQwKqXsKD5z-C9t7seTROk6tZrxqs6CwA_R3yrAa3sgg.JPEG/externalFile.jpg?type=w800)
 
 
 
