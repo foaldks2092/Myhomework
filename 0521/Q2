@@ -20,9 +20,8 @@ public class TTest2 {
 		            System.out.print(a[i] + " ");
 
 					
-			}
+		}
 	    }
 	}
-
- }
+    }
 }
