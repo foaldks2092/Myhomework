@@ -3,7 +3,7 @@ package kr.java.TestT;
 
 import java.util.Scanner;
 
-//숫자 삼각형
+ //숫자 삼각형
 public class TTest3 {
 
 	public static void main(String[] args) {
