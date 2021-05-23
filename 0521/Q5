@@ -1,0 +1,45 @@
+package kr.java.TestT;
+
+import java.util.Scanner;
+
+public class TTest5 {
+
+	public static void main(String[] args) {
+	
+		Scanner sc = new Scanner(System.in);
+		
+		int[] number = new int[10]; 
+		
+		int temp;
+		
+		System.out.println("숫자를 입력하세요: ");
+		
+		for(int i=0; i<number.length;i++) {
+			number[i]=sc.nextInt();
+		}		
+		
+		
+		for (int i1 = 0; i1 < number.length-1; i1++) {
+		
+			for (int j = i1+1; j < number.length; j++) {
+							
+				if(number[i1] < number[j]) {
+					temp = number[i1];
+					number[i1] = number[j];
+					number[j] = temp;
+				}
+				
+			}
+			
+		}
+		
+for(int i1 = 0; i1 < number.length; i1++) {
+	System.out.print(number[i1] + " ");
+}
+
+	}
+	
+
+}
+
+
